@@ -152,7 +152,9 @@ See Jarvis in action:
 ## Author
 
 Amrutiya Urvish,
+
 Department of Information Science and Engineering,
+
 RV College of Engineering, Bangalore
 
 ## 📄 License

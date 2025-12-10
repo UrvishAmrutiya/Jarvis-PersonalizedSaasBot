@@ -125,17 +125,17 @@ The app will be available at `http://localhost:3000`
 
 See Jarvis in action:
 
-👉 [**Watch Demo Video**](YOUR_VIDEO_URL_HERE)
+👉 [**Watch Demo Video**](https://drive.google.com/file/d/1s3eSjGxs9JiNGOJbZBpLQ0cO5jXXGeKB/view?usp=sharing)
 
 ### 📸 UI Preview
 
 #### 🔹 Landing Page (Jarvis Reactor Animation)
 
-![Landing Page](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_1)
+![Landing Page]([https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_1](https://drive.google.com/file/d/1ols-jDHdqNezb8xI_e0P-5XMsfMacQuk/view?usp=sharing))
 
 #### 🔹 Chat Screen (Citations + RAG Retrieval)
 
-![Chat UI](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_2)
+![Chat UI]([https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_2](https://drive.google.com/file/d/12HLBf-RGyzKdpgivQHbR6k2uuOqq7MNC/view?usp=sharing))
 
 ---
 

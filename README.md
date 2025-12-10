@@ -131,13 +131,11 @@ See Jarvis in action:
 
 #### 🔹 Landing Page (Jarvis Reactor Animation)
 
-![Landing Page][https://drive.google.com/file/d/1ols-jDHdqNezb8xI_e0P-5XMsfMacQuk/view?usp=sharing]
+![Landing Page](https://drive.google.com/uc?export=view&id=1ols-jDHdqNezb8xI_e0P-5XMsfMacQuk)
 
 #### 🔹 Chat Screen (Citations + RAG Retrieval)
 
-![Chat UI][https://drive.google.com/file/d/12HLBf-RGyzKdpgivQHbR6k2uuOqq7MNC/view?usp=sharing]
-
----
+![Chat UI](https://drive.google.com/uc?export=view&id=12HLBf-RGyzKdpgivQHbR6k2uuOqq7MNC)
 
 ## 🛠 Tech Stack
 

@@ -23,11 +23,15 @@ This is a **fully self-hosted enterprise AI copilot**, ensuring **data stays pri
 
 ## 🏗 Architecture
 
-```mermaid
 flowchart TD
-    A[Next.js Frontend] --> B[Node.js Backend API]
-    B --> C[Pinecone Vector DB - RAG]
-    B --> D[LM Studio - Local Llama Model]
+    A([✨ Next.js Frontend]) --> B([🧠 Node.js RAG Backend])
+    B --> C([🔍 Pinecone Vector Database])
+    B --> D([🤖 Llama Model via LM Studio])
+    
+    style A fill:#0ea5e9,stroke:#ffffff,stroke-width:1px,color:#fff
+    style B fill:#6366f1,stroke:#ffffff,stroke-width:1px,color:#fff
+    style C fill:#14b8a6,stroke:#ffffff,stroke-width:1px,color:#fff
+    style D fill:#d946ef,stroke:#ffffff,stroke-width:1px,color:#fff
 
    ## Project Structure
 

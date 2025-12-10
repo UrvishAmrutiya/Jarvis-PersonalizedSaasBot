@@ -12,7 +12,7 @@ This is a **fully self-hosted enterprise AI copilot**, ensuring **data stays pri
 - 🔐 **Self-Hosted LLM** using LM Studio (Llama-3.2-3B-Instruct)
 - 🧠 **RAG Retrieval** using Pinecone for accurate context matching
 - 📚 **Answers with citations** → audit-ready & trusted
-- 🎨 **Cinematic UI** built in Next.js + v0.design + Framer Motion
+- 🎨 **Cinematic UI** built in Next.js + Framer Motion
 - 💬 **Real-time chat** with typing animation + online status indicator
 - 🔄 **Start new session** any time
 - 📄 **Download chat** as `.txt` transcript
